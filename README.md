@@ -12,7 +12,6 @@
 ### *I specialize in cybersecurity, and I like to write scripts for fun pertaining to network security in my free time.*
 ### *I also enjoy ricing out Linux computers. I especially like working with Raspberry Pi computers.*
 ### *When I'm not writing miscellaneous scripts, I am probably 3D-printing random stuff.*  
-  
 
 <br/>  
 
